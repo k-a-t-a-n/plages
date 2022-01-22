@@ -61,8 +61,3 @@ adresse_postale = st.text_input('entrez votre adresse avec ce format : "3 rue ex
 
 if st.button('valider'):
      API_adresse2(adresse_postale)
-
-
-# conda activate data_collection
-# cd D:\ecole
-# streamlit run plage.py
