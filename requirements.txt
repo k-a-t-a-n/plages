@@ -4,4 +4,4 @@ numpy==1.21.2
 streamlit_folium==0.4.0
 folium==0.12.1.post1
 haversine==2.5.1
-streamlit==0.81.1
+streamlit==1.11.1
